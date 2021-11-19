@@ -1,0 +1,171 @@
+#contenido p:empty{
+    background: red;
+    padding: 20px;
+}
+
+
+/* #contenido strong:nth-of-type(2n-1){
+    background-color: red;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #contenido strong:nth-child(2){
+    background: red;
+} */
+
+/* #contenido strong:nth-of-type(2){
+    background: red;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* #contenido span:last-child{
+    background-color: red;
+}
+#contenido span:last-of-type{
+    background-color: red;
+} */
+
+
+
+
+/* #contenido span:first-child{
+    background-color: red;
+}
+
+#contenido span:first-of-type{
+    background-color: red;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #contenido strong:nth-child(2n-1){
+    background: red;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* strong:first-child {
+    background-color:cyan;
+}
+
+span:last-child {
+    background-color:green;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* p:not(.general){
+  border: 1px solid #DDD;
+  padding: 8px;
+  background: #FFF;
+}
+.general{
+    border: 1px solid #777777;
+    padding: 8px;
+    background: #098686;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+/* input:out-of-range {
+    background-color: darkred;
+    color: white;
+  }
+  
+  input:in-range {
+    background-color: green;
+    color: white;
+} */
+
+
+
+/* input:required{
+    border: 2px solid blue;
+}
+
+input:optional{
+    border: 2px solid #ff0000;
+}
+
+input:invalid{
+    background: red;
+    color: white;
+}
+input:valid{
+    background: green;
+    color: white;
+}
+input[type="submit"]{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #b4b4b4;
+}  */
